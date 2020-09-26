@@ -1,6 +1,6 @@
 class Constants {
-  static const mapApiKey = "AIzaSyBmMMuyDtsODnMwu87oB0L8J18YHE9u2iY";
-  static const anotherApiKey = "AIzaSyBAV9Y1ZcihPgy0KUfB5Bj3bUWh3rH4rCE";
+  static const mapApiKey = "GOOGLE MAPS API KEY";
+  static const anotherApiKey = "GOOGLE MAPS API KEY";
   static const destinationMarkerId = "DestinationMarker";
   static const pickupMarkerId = "PickupMarker";
   static const currentLocationMarkerId = "currentLocationMarker";
